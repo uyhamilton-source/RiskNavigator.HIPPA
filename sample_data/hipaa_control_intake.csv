@@ -1,0 +1,16 @@
+control_id,control_area,control_name,in_scope,status,evidence_available,owner_assigned,policy_exists,procedure_exists,tested_recently,notes
+164.308(a)(1)(ii)(A),Administrative Safeguards,Risk analysis process documented and performed,Yes,Partial,Yes,Yes,Yes,Partial,No,Annual enterprise risk analysis incomplete
+164.308(a)(1)(ii)(B),Administrative Safeguards,Risk management actions tracked to completion,Yes,Partial,No,Yes,Yes,Partial,No,Action tracking inconsistent
+164.308(a)(5),Administrative Safeguards,Security awareness and training program maintained,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+164.308(a)(6),Administrative Safeguards,Security incident procedures documented and tested,Yes,No,No,Yes,Yes,No,No,No tabletop in last 12 months
+164.308(a)(7),Administrative Safeguards,Contingency plan and restore testing documented,Yes,Partial,Yes,Yes,Yes,Partial,No,Recovery tests not regular
+164.310(a)(1),Physical Safeguards,Facility access controls defined and reviewed,Yes,Partial,Partial,Yes,Yes,Partial,No,Visitor review evidence limited
+164.310(d)(1),Physical Safeguards,Device and media disposal controls documented,Yes,Partial,Yes,Yes,Yes,Yes,No,
+164.312(a)(1),Technical Safeguards,Unique user identification and access controls enforced,Yes,Partial,Yes,Yes,Yes,Yes,Partial,Privileged access review inconsistent
+164.312(b),Technical Safeguards,Audit controls and log review procedures implemented,Yes,Partial,Partial,Yes,Yes,Partial,No,Centralized review not consistent
+164.312(c)(1),Technical Safeguards,Integrity controls protect ePHI from improper alteration,Yes,Partial,No,Yes,Yes,Partial,No,Change monitoring limited
+164.312(d),Technical Safeguards,Person or entity authentication safeguards enforced,Yes,No,No,Yes,Yes,No,No,MFA not fully deployed
+164.312(e)(1),Technical Safeguards,Transmission security protects ePHI in transit,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+164.314(a),Organizational Requirements,Business associate agreements are current and reviewed,Yes,Partial,Yes,Yes,Yes,Partial,No,Inventory of BAAs not centralized
+164.316(a),Policies and Procedures,HIPAA policies and procedures are approved and maintained,Yes,Partial,Yes,Yes,Yes,Partial,No,Policy review cycle overdue
+164.316(b)(2),Policies and Procedures,Required documentation retention is defined and evidenced,Yes,Partial,No,Yes,Yes,Partial,No,Retention evidence not complete
